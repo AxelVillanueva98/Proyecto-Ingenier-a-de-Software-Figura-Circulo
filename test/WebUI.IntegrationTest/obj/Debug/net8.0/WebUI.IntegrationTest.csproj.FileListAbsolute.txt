@@ -1,0 +1,6 @@
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\WebUI.IntegrationTest.csproj.AssemblyReference.cache
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\WebUI.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\WebUI.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\WebUI.IntegrationTest.AssemblyInfo.cs
+C:\Users\axelv\onedrive\documentos\ISPF\test\WebUI.IntegrationTest\obj\Debug\net8.0\WebUI.IntegrationTest.csproj.CoreCompileInputs.cache

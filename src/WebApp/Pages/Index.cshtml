@@ -1,0 +1,16 @@
+@page
+
+@{
+    double radio = 5;
+    double dos = 2;
+    double altura = 10;
+    double perimetro = Application.Circulo.Perimetro(radio, dos);
+    double area = Application.Circulo.Area(radio);
+    double volumen = Application.Cilindro.Volumen(area, altura);
+}
+
+El perímetro de la base de un Cilindro de @(radio)cm por pi por 2 es @(perimetro)cm
+<br />
+El área de la base de un Cilindro de @(radio)cm al cuadrado por pi es @(area)cm2
+<br />
+El volumen un Cilindro con un área de la base de @(area)cm2 y @(altura)cm de altura es @(volumen)cm3
