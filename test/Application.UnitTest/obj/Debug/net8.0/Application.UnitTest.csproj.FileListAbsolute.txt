@@ -100,3 +100,4 @@ C:\Users\axelv\onedrive\documentos\ISPF\test\Application.UnitTest\obj\Debug\net8
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.UnitTest\obj\Debug\net8.0\Application.UnitTest.pdb
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.UnitTest\obj\Debug\net8.0\Application.UnitTest.genruntimeconfig.cache
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.UnitTest\obj\Debug\net8.0\ref\Application.UnitTest.dll
+C:\Users\axelv\onedrive\documentos\ISPF\test\Application.UnitTest\obj\Debug\net8.0\Application.UnitTest.sourcelink.json

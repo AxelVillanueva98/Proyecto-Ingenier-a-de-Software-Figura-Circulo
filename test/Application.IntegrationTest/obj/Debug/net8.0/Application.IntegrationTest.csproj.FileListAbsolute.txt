@@ -100,3 +100,4 @@ C:\Users\axelv\onedrive\documentos\ISPF\test\Application.IntegrationTest\obj\Deb
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.pdb
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.genruntimeconfig.cache
 C:\Users\axelv\onedrive\documentos\ISPF\test\Application.IntegrationTest\obj\Debug\net8.0\ref\Application.IntegrationTest.dll
+C:\Users\axelv\onedrive\documentos\ISPF\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.sourcelink.json

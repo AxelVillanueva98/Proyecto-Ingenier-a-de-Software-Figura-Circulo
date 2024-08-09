@@ -29,3 +29,4 @@ C:\Users\axelv\onedrive\documentos\ISPF\src\WebApp\obj\Debug\net8.0\refint\WebAp
 C:\Users\axelv\onedrive\documentos\ISPF\src\WebApp\obj\Debug\net8.0\WebApp.pdb
 C:\Users\axelv\onedrive\documentos\ISPF\src\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 C:\Users\axelv\onedrive\documentos\ISPF\src\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\axelv\onedrive\documentos\ISPF\src\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json

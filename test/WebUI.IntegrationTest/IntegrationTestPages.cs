@@ -16,6 +16,12 @@ public class IntegrationTestPages : IClassFixture<WebApplicationFactory<Program>
     [Theory]
     [InlineData("Index")]
     [InlineData("Privacy")]
+    [InlineData("Index1")]
+    [InlineData("Privacy1")]
+    [InlineData("Index21")]
+    [InlineData("Privacy21")]
+    [InlineData("Index321")]
+    [InlineData("Privacy321")]
     public async Task TestGetPages(string url)
     {
         // Arrange
